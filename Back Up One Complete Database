@@ -1,2 +1,2 @@
 
-mysqldump  Name_bd  > File_Name_Backup.sql
+mysqldump -u USER -p Name_bd  > File_Name_Backup.sql
